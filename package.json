@@ -1,5 +1,5 @@
 {
-  "name": "tsn-signage",
+  "name": "pisignage-server",
   "version": "3.2.0a",
   "description": "Server to manage signage players in a LAN or Private Network.",
   "author": "True Synergy Networks",
