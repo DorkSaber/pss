@@ -1,14 +1,14 @@
 {
-  "name": "pisignage-server",
+  "name": "tsn-signage",
   "version": "3.2.0a",
-  "description": "Server to manage piSignage players in a LAN or Private Network.",
-  "author": "colloqi <info@pisignage.com>",
+  "description": "Server to manage signage players in a LAN or Private Network.",
+  "author": "True Synergy Networks",
   "engines": {
     "node": ">=8.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/colloqi/piSignage-server"
+    "url": "https://github.com/DorkSaber/pss"
   },
   "private": false,
   "dependencies": {
