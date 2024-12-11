@@ -8,6 +8,8 @@ ENV NODE_ENV=production
 
 WORKDIR /pisignage-server
 
+COPY ./public /pisignage-server/public
+
 COPY ["package.json", "package-lock.json*", "./"]
 
 #RUN rm -rf node_modues package-lock.json
